@@ -400,15 +400,6 @@ print(top_features)
 
 This project is licensed under the **MIT License** - see [LICENSE.txt](LICENSE.txt) for details.
 
-### You are free to:
-- ✅ Use this project
-- ✅ Modify the code
-- ✅ Distribute copies
-- ✅ Use it commercially
-
-### Conditions:
-- ⚠️ Include license and copyright notice
-
 ---
 
 ## 🛠️ Built With
@@ -435,29 +426,6 @@ For improvements or bug reports, please:
 2. Create a feature branch
 3. Make your changes
 4. Submit a pull request
-
----
-
-## 📞 Support
-
-### Getting Help
-
-1. **Check the starter/README.md** for student instructions
-2. **Read code comments** in starter.ipynb
-3. **Review the rubric** for requirements
-4. **Google the error** with library name
-5. **Check documentation** of relevant libraries
-
-### Common Questions
-
-**Q: Why am I getting different results?**
-A: Random state should be 27 in train_test_split and RandomForest.
-
-**Q: What if my accuracy is too low?**
-A: Check data preprocessing, feature engineering, and model parameters.
-
-**Q: Can I use a different classifier?**
-A: Yes! Try XGBoost, GradientBoosting, or SVM for comparison.
 
 ---
 
