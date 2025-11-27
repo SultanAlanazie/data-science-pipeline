@@ -57,17 +57,17 @@ Then open **`starter/starter.ipynb`** and follow the cells!
 
 ### Core Libraries
 ```
-scikit-learn>=1.0.0      # Machine Learning
-pandas>=1.3.0            # Data Manipulation
-numpy>=1.21.0            # Numerical Computing
-spacy>=3.0.0             # NLP Processing
+scikit-learn      # Machine Learning
+pandas            # Data Manipulation
+numpy             # Numerical Computing
+spacy             # NLP Processing
 ```
 
 ### Visualization & Jupyter
 ```
-notebook>=6.4.0          # Jupyter Notebook
-matplotlib>=3.4.0        # Plotting
-seaborn>=0.11.0          # Statistical Plots
+notebook          # Jupyter Notebook
+matplotlib        # Plotting
+seaborn           # Statistical Plots
 ```
 
 ### Installation Methods
